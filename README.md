@@ -1,7 +1,7 @@
 # Week-One-Challenge
 Week One Challenege
 
-This is a solution to the [Module 1 Challenge](). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Module 1 Challenge](). 
 
 ## Table of contents
 
@@ -47,7 +47,6 @@ I initialized and configured a GitHub repository to maintain version control for
 - CSS custom properties
 - CSS Grid
 - Mobile-first workflow
-- Styled Components - For styles 
 - [Styled Components](https://styled-components.com/) - For styles
 
 ### What I learned
